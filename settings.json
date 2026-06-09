@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dabrodigys.falixsrv.me",
-    "port": 53624,
+    "ip": "dabrodigys.aternos.me",
+    "port": 34683,
     "version": "",
     "try-creative": false
   },
